@@ -14,7 +14,7 @@ export default function Home() {
     <>
       <Head>
         <title>Rahul Kumar | Portfolio</title>
-        <meta name="description" content="Portfolio by Godnon Dsilva" />
+        <meta name="description" content="Portfolio by Rahul" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Toaster
